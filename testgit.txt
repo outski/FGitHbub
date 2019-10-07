@@ -4,3 +4,4 @@ add feachure to devolop branch
 add new feauture branch usig git flow -b feature/newfeature
 an othder branch
 from branch devolop
+git test from user2
